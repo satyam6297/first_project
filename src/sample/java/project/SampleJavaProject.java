@@ -57,7 +57,7 @@ public class SampleJavaProject implements Runnable {
     }
 
     /**
-     * Print the "Hello, world!" string. Changed by satyam
+     * Print the "Hello, world!" string. Changed by satyam on 25 Feb 2018
      *
      *
      */
