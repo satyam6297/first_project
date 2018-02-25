@@ -57,7 +57,9 @@ public class SampleJavaProject implements Runnable {
     }
 
     /**
-     * Print the "Hello, world!" string.
+     * Print the "Hello, world!" string. Changed by satyam
+     *
+     *
      */
     public final void sayHello() {
         System.out.printf("Hello, %s!%n", name);
