@@ -57,7 +57,7 @@ public class SampleJavaProject implements Runnable {
     }
 
     /**
-     * Print the "Hello, world!" string. Changed by satyam second commit
+     * Print the "Hello, world!" string. Changed by satyam practice commit
      *
      *
      */
