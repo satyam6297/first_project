@@ -57,8 +57,8 @@ public class SampleJavaProject implements Runnable {
     }
 
     /**
-     * Print the "Hello, world!" string. Changed by satyam annamreddy
-     * sataym annamreddy
+     * Print the "Hello, world!" string. Changed by satyam practice commit
+     *
      *
      */
     public final void sayHello() {
